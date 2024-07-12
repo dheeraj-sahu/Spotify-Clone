@@ -275,6 +275,10 @@ body{
 .songbuttons img{
     cursor: pointer;
 }
+.songbuttons img{
+    background-color: #6f846f;
+    border-radius: 10px;
+}
 .info-in-bar{
     position: absolute;
     top: 2px;
